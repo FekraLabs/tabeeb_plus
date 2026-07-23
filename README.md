@@ -154,11 +154,6 @@ TabeebPlus is not just clinic management software — it is a **complete Clinic 
 </tr>
 <tr>
 <td align="center">
-<img src="https://tabeebplus.com/assets/tabeebplus-desktop/Complete%20electronic%20health%20record%20%28EHR%29%20timeline%20for%20a%20patient.webp" alt="TabeebPlus Electronic Health Record showing complete patient timeline" width="100%" />
-<br><em>Electronic Health Record</em>
-<br>Complete patient timeline
-</td>
-<td align="center">
 <img src="https://tabeebplus.com/assets/tabeebplus-desktop/Manage%20clinic%20scheduling%2C%20statuses%2C%20and%20appointments.webp" alt="TabeebPlus Appointment Scheduling with clinic calendar and status management" width="100%" />
 <br><em>Appointment Scheduling</em>
 <br>Clinic calendar and status management
@@ -174,11 +169,6 @@ TabeebPlus is not just clinic management software — it is a **complete Clinic 
 <img src="https://tabeebplus.com/assets/tabeebplus-desktop/Form%20to%20add%20new%20patients%20or%20edit%20existing%20profiles.webp" alt="TabeebPlus Patient Registration form to add or edit patient profiles" width="100%" />
 <br><em>Patient Registration</em>
 <br>Add or edit patient profiles
-</td>
-<td align="center">
-<img src="https://tabeebplus.com/assets/tabeebplus-desktop/View%20details%20of%20a%20specific%20patient%27s%20basic%20info.webp" alt="TabeebPlus Patient Details showing basic info and contact" width="100%" />
-<br><em>Patient Details</em>
-<br>Basic info and contact details
 </td>
 <td align="center">
 <img src="https://tabeebplus.com/assets/tabeebplus-desktop/Overview%20of%20doctors%2C%20licenses%2C%20and%20clinical%20specialties.webp" alt="TabeebPlus Doctor Management showing licenses and clinical specialties" width="100%" />
@@ -224,8 +214,6 @@ TabeebPlus is not just clinic management software — it is a **complete Clinic 
 <table>
 <tr>
 <td align="center"><img src="https://tabeebplus.com/assets/website-images/dashboard/01.webp" alt="TabeebPlus Dashboard Analytics overview" width="100%" /><br><em>Dashboard Overview</em></td>
-<td align="center"><img src="https://tabeebplus.com/assets/website-images/dashboard/02.webp" alt="TabeebPlus Dashboard Revenue Analytics" width="100%" /><br><em>Revenue Analytics</em></td>
-<td align="center"><img src="https://tabeebplus.com/assets/website-images/dashboard/03.webp" alt="TabeebPlus Dashboard Appointment Statistics" width="100%" /><br><em>Appointment Statistics</em></td>
 </tr>
 </table>
 
