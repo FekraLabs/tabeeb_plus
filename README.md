@@ -227,16 +227,6 @@ TabeebPlus is not just clinic management software — it is a **complete Clinic 
 <td align="center"><img src="https://tabeebplus.com/assets/website-images/dashboard/02.webp" alt="TabeebPlus Dashboard Revenue Analytics" width="100%" /><br><em>Revenue Analytics</em></td>
 <td align="center"><img src="https://tabeebplus.com/assets/website-images/dashboard/03.webp" alt="TabeebPlus Dashboard Appointment Statistics" width="100%" /><br><em>Appointment Statistics</em></td>
 </tr>
-<tr>
-<td align="center"><img src="https://tabeebplus.com/assets/website-images/dashboard/04.webp" alt="TabeebPlus Dashboard Patient Flow" width="100%" /><br><em>Patient Flow</em></td>
-<td align="center"><img src="https://tabeebplus.com/assets/website-images/dashboard/05.webp" alt="TabeebPlus Dashboard Clinical Reports" width="100%" /><br><em>Clinical Reports</em></td>
-<td align="center"><img src="https://tabeebplus.com/assets/website-images/dashboard/06.webp" alt="TabeebPlus Dashboard Financial Summary" width="100%" /><br><em>Financial Summary</em></td>
-</tr>
-<tr>
-<td align="center"><img src="https://tabeebplus.com/assets/website-images/dashboard/07.webp" alt="TabeebPlus Dashboard Branch Performance" width="100%" /><br><em>Branch Performance</em></td>
-<td align="center"><img src="https://tabeebplus.com/assets/website-images/dashboard/08.webp" alt="TabeebPlus Dashboard Doctor Analytics" width="100%" /><br><em>Doctor Analytics</em></td>
-<td align="center"><img src="https://tabeebplus.com/assets/website-images/dashboard/09.webp" alt="TabeebPlus Dashboard Insurance Tracking" width="100%" /><br><em>Insurance Tracking</em></td>
-</tr>
 </table>
 
 ### Doctor Landing Page and Patient Portal
